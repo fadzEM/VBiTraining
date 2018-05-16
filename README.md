@@ -14,7 +14,7 @@
 |:------              |------        |:------                                |:------   |
 |Monday, 11th June    | 08:30 - 09:00| General Intro and Setting up          | ??|
 |                     | 09:00 - 10:30| Data principles/wrangling             | ??|
-|                     | 10:30 - 11:30| *Break*                               | ??|
+|                     | 10:30 - 11:00| *Break*                               | ??|
 |                     | 11:00 - 12:00| Model Fitting Lecture, Discussion     | ??|
 |                     | 13:00 --14:00| Probability, Likelihoods, Discussion  | ??|
 |                     | 14:00 --15:00| Traits: Linear Models                 | ??|
