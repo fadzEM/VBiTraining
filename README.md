@@ -10,31 +10,31 @@
 
 ## The Schedule
 
-| Date                | Time         | Topic                                 |
-|:------              |------        |:------                                |
-|Monday, 11th June    | 08:30 - 09:00| General Intro and Setting up          | 
-|                     | 09:00 - 10:30| Model Fitting Lecture.                | 
-|                     | 10:30 - 11:00| *Break*                               | 
-|                     | 11:00 - 12:00| Data principles/wrangling, Discussion | 
-|                     | 13:00 --14:00| Probability, Likelihoods, Discussion  | 
-|                     | 14:00 --15:00| Traits: Linear Models                 | 
-|                     | 15:00 --15:30| *Break*                               | 
-|                     | 15:30 --17:30| Traits: NLLS + MLE + Bayesian (Jags)  | 
-|Tuesday, 12th June   | 08:30 - 09:00| Q & A                                 | 
-|                     | 09:00 - 10:30| Traits: (Group) challenge/exercise*   |
-|                     | 10:30 - 11:00| *Break*                               | 
-|                     | 11:00 - 12:00| Traits: (Group) challenge discussion  | 
-|                     | 13:00 - 14:00| Abundance/Incidence: Linear Models    | 
-|                     | 14:00 --15:00| Abundance/Incidence: NLLS             | 
-|                     | 15:00 --15:30| *Break*                               | 
-|                     | 15:30 --17:30| Abundance/Incidence: MLE + Bayesian   | 
-|Wednesday, 13th June | 08:30 - 09:00| Q & A                                 | 
-|                     | 09:00 - 10:30| Abundance/Incidence: Time series      | 
-|                     | 10:30 - 11:00| *Break*                               | 
-|                     | 11:00 - 12:00| Abundance/Incidence: VecDyn + Dengue  | 
-|                     | 13:00 --15:00| Traits: (Group) challenge/exercise*   | 
-|                     | 15:00 --15:30| *Break*                               |
-|                     | 15:30 --17:30| Abundance/Incidence: (Group) challenge discussion  |
+| Date                | Time         | Topic                                 | Leading Instructor 
+|:------              |------        |:------                                |------
+|Monday, 11th June    | 08:30 - 09:00| General Intro and Setting up          | SP
+|                     | 09:00 - 10:30| Model Fitting Lecture.                | Sp
+|                     | 10:30 - 11:00| *Break*                               | --
+|                     | 11:00 - 12:00| Data principles/wrangling, Discussion | SP
+|                     | 13:00 --14:00| Probability, Likelihoods, Discussion  | LJ
+|                     | 14:00 --15:00| Traits: Linear Models                 | LJ
+|                     | 15:00 --15:30| *Break*                               | --
+|                     | 15:30 --17:30| Traits: NLLS + MLE + Bayesian (Jags)  | SP and LJ?
+|Tuesday, 12th June   | 08:30 - 09:00| Q & A                                 | All
+|                     | 09:00 - 10:30| Traits: (Group) challenge/exercise*   | MS/FEM/MW
+|                     | 10:30 - 11:00| *Break*                               | --
+|                     | 11:00 - 12:00| Traits: (Group) challenge discussion  | All
+|                     | 13:00 - 14:00| Abundance/Incidence: Linear Models    | SP
+|                     | 14:00 --15:00| Abundance/Incidence: NLLS             | SP
+|                     | 15:00 --15:30| *Break*                               | --
+|                     | 15:30 --17:30| Abundance/Incidence: MLE + Bayesian   | LJ
+|Wednesday, 13th June | 08:30 - 09:00| Q & A                                 | All
+|                     | 09:00 - 10:30| Abundance/Incidence: Time series      | LJ
+|                     | 10:30 - 11:00| *Break*                               | --
+|                     | 11:00 - 12:00| Abundance/Incidence: VecDyn + Dengue  | SP/LJ
+|                     | 13:00 --15:00| Traits: (Group) challenge/exercise*   | MW/FEM/MS
+|                     | 15:00 --15:30| *Break*                               | --
+|                     | 15:30 --17:30| Abundance/Incidence: (Group) challenge discussion  | All
 
 *Model Selection 
 
